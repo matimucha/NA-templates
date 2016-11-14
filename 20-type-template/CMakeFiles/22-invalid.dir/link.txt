@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/22-invalid.dir/22-invalid.cpp.o  -o 22-invalid 

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/31-traits.dir/31-tests.cpp.o  -o 31-traits 
